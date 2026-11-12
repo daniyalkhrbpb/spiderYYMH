@@ -1,0 +1,7 @@
+
+#  pip install -r requirements.txt
+requests>=2.25.0
+PyMySQL>=1.0.0
+sqlalchemy
+pandas
+Pillow>=8.0.0

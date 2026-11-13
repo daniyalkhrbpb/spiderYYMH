@@ -5,9 +5,9 @@
 
 # 数据库配置
 DATABASE_CONFIG = {
-    'host': '193.218.200.71',
+    'host': '192.168.86.128',
     'user': 'yymh_com',
-    'password': 'SWyx4DpEWsB5KHa4',
+    'password': '123456',
     'database': 'yymh_com',
     'charset': 'utf8mb4',
     'port': 3306,
